@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimlikKarti", "KimlikKarti\KimlikKarti.csproj", "{B3DA122B-45F3-47D9-85A7-6454B8AC9DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DA122B-45F3-47D9-85A7-6454B8AC9DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DA122B-45F3-47D9-85A7-6454B8AC9DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DA122B-45F3-47D9-85A7-6454B8AC9DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DA122B-45F3-47D9-85A7-6454B8AC9DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31EBB15C-9B2D-4A74-9B0C-C0C1B5019A1B}
+	EndGlobalSection
+EndGlobal
